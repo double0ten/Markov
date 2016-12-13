@@ -1,6 +1,6 @@
 {
-  "name": "Markov",
+  "name": "Markov Sentence Generator",
   "tagline": "",
-  "body": "Here is markov!\r\n",
+  "body": "<img src=\"https://s30.postimg.org/9glfqoci9/20161213001724.png\" alt=\"hi\" class=\"inline\" /> \r\n# **Hi! Here is Markov Sentence Generator project!**\r\n<br> **Requirement**: Markovian-tweets, due September 26th. Consume a text file with sentences and produce a tweet (< 145 characters) with the style of the input text. I see several layers of success in this project and encourage you to shoot for the level that best matches your team's abilities. Does the base Markov Sentence Generation from the sample text.\r\n<br> We use two prefixs to search the content in the .txt, then if find out the word marked with these two prefixs(follow to these two words), this word will define as postfix. If marked with several words, use the random one as postfix. And do this in loop until a dot. So, a sentence has created.\r\n<br>If you want to see **\"README\"**, please click **\"View on GitHub\"** on the left side.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
